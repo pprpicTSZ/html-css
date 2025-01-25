@@ -1,0 +1,16 @@
+body {
+    background-color: #A80000;
+    background-image: url("https://www.carnet.hr/wp-content/themes/carnet/assets/img/logo.svg");
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+    background-position: 10px 50px;
+    background-attachment: fixed;
+
+}
+h1 {
+   background-color: #C00000;
+}
+p {
+    background-color: #E00000;
+}

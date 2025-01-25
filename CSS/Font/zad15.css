@@ -1,0 +1,17 @@
+h1 {
+    font-size: 40em;
+    font-family: "Verdana", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+p.normal {
+    font-size: 12em;
+    font-family: "Verdana", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+p.small {
+    font-size: 12em;
+    font-family: "Verdana", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
