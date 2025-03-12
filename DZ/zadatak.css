@@ -1,0 +1,29 @@
+body {
+    width:900px
+}
+header {
+    height:100px;
+    width:100%;
+    background-color: green;
+}
+aside {
+    height:500px;
+    width: 20%;
+    background-color: red;
+}
+main {
+    height:500px;
+    width:80%;
+    background-color: deepskyblue;
+    position:relative;
+    left: 20%;
+    bottom: 500px;
+}
+
+footer {
+    height:100px;
+    width:100%;
+    background-color: yellow;
+    position:relative;
+    bottom: 500px;          f
+}
