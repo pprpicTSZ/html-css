@@ -1,0 +1,22 @@
+ol{
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    text-decoration-color: white;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+header {
+    background-color: dodgerblue;
+    height: 50px;
+}
+
